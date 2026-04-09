@@ -1,0 +1,14 @@
+folium==0.20.0
+geopy==2.4.1
+matplotlib==3.10.8
+numpy==2.4.4
+opencv_python==4.12.0.88
+pandas==3.0.2
+Pillow==12.2.0
+plotly==6.5.2
+Requests==2.33.1
+seaborn==0.13.2
+streamlit==1.48.1
+streamlit_folium==0.27.1
+streamlit_geolocation==0.0.10
+tensorflow==2.20.0

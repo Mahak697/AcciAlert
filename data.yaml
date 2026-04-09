@@ -1,0 +1,7 @@
+
+train: /kaggle/input/accident-no-accident-detection/AN-Data/train/images
+val: /kaggle/input/accident-no-accident-detection/AN-Data/valid/images
+test: /kaggle/input/accident-no-accident-detection/AN-Data/test/images
+
+nc: 2
+names: ['Accident', 'Non Accident']
