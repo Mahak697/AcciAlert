@@ -11,4 +11,4 @@ seaborn==0.13.2
 streamlit==1.48.1
 streamlit_folium==0.27.1
 streamlit_geolocation==0.0.10
-tensorflow==2.20.0
+tensorflow==2.16.1
